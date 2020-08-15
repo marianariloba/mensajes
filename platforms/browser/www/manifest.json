@@ -1,11 +1,4 @@
 {
-  "background_color": "#FFF",
-  "display": "standalone",
-  "name": "Mensajes Mariana",
-  "short_name": "Mensajes Mariana",
-  "version": "com.mensajes.mariana",
-  "description": "Hello World sample application that responds to the deviceready event.",
-  "author": "PhoneGap Team",
-  "icons": [],
-  "start_url": "index.html"
+  "name": "Push Demo",
+  "gcm_sender_id": "996231231186"
 }
